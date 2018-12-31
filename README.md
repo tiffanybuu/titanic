@@ -3,8 +3,6 @@ titanic
 
 titanic data science challenge
 
-Code has been tested on Python 3.6.3 ( Using Anaconda Distribution )
-
 Project Organization
 ------------
 
